@@ -1,0 +1,5 @@
+Simple JSON processing library 
+ * based on PLY-3.4 (http://www.dabeaz.com/ply/) 
+ * also inspired by https://gist.github.com/436828 but was rewritten
+
+May not strictly reflecting JSON specification right now.
